@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: my-app
-          image: sherinputhukkudy/my-app:4d1219b
+          image: sherinputhukkudy/my-app:74fec67
           ports:
             - containerPort: 3000
           resources:
